@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Be Healthy</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+</resources>
